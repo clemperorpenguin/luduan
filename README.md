@@ -163,7 +163,3 @@ For GPUs with limited VRAM (< 12GB), consider:
 - Retries failed translations (configurable)
 - Falls back to original text on translation failure
 - Logs all errors with timestamps
-
-## License
-
-MIT License
