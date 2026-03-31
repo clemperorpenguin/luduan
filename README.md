@@ -1,5 +1,8 @@
 # Luduan - EPUB to Audiobook Pipeline
 
+<img width="1024" height="1024" alt="luduan" src="https://github.com/user-attachments/assets/2785f66a-ce56-48c7-a37b-240fcc11ed42" />
+
+
 **Luduan** (鹿端) - A modular pipeline for converting EPUB books (especially Chinese web novels) into audiobooks with KOReader-compatible audio sidecar files.
 
 ## Features
